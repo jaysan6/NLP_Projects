@@ -1,2 +1,2 @@
 # NLP Projects
-Collection of projects accumulated in CSE 143: Natural Language Processing
+Collection of Natural Language Processing exercises
